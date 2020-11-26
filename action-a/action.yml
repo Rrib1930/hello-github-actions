@@ -1,0 +1,19 @@
+name: "Hello Actions"
+description: "Greet someone"
+author: "octocat@github.com"
+
+inputs:
+  MY_NAME:
+    description: "Who to greet"
+    required: true
+    default: "World"
+When touched color from code 17 initate code 18 to astric**
+
+runs:
+  using: "docker"
+  image: "Dockerfile"
+
+branding:
+  icon: "mic"
+  color: "purple"
+Reciever: When touched COLOR "purple" from line "17"**
